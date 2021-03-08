@@ -1,4 +1,4 @@
-# Science-Translational-Medicine-article
+# Science Translational Medicine article
 Code used in some of the analyses from the "Science Translational Medicine" article titled "Loss of TGFβ signaling increases alternative end-joining DNA repair that sensitizes to genotoxic therapies across cancer types" (link: https://stm.sciencemag.org/content/13/580/eabc4465). 
 
 
